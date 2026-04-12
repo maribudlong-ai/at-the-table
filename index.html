@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>At the Table</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #282424;
+    --surface: #3a3733;
+    --surface-hover: #46433e;
+    --text: #e8e0d4;
+    --text-muted: #a89f91;
+    --accent: #c9a96e;
+    --accent-dim: #8a7a55;
+    --border: #524e48;
+    --card-bg: #33312d;
+    --title: #c9a96e;
+    --checkbox: #8a7a55;
+  }
+
+  html, body {
+    height: 100%;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: var(--bg);
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100dvh;
+    padding: 2rem 1.25rem;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: var(--title);
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+  .title-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .title-image {
+    display: block;
+    max-height: 56px;
+    width: auto;
+  }
+
+  .title-image-left {
+    height: 65px;
+    max-height: none;
+    width: auto;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+    color: var(--text-muted);
+    text-align: center;
+    margin-bottom: 2rem;
+    font-style: italic;
+  }
+
+  /* --- Generation checkboxes --- */
+  .generation-list {
+    width: 100%;
+    max-width: 420px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.625rem;
+    margin-bottom: 2rem;
+  }
+
+  .generation-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.15s;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .generation-item:hover { background: var(--surface-hover); }
+
+  .generation-item[data-gen="leo"] {
+    background: rgba(222, 156, 55, 0.28);
+    border-color: rgba(222, 156, 55, 0.52);
+  }
+
+  .generation-item[data-gen="leo"]:hover {
+    background: rgba(222, 156, 55, 0.40);
+  }
+
+  .generation-item[data-gen="virgo"] {
+    background: rgba(167, 118, 41, 0.28);
+    border-color: rgba(167, 118, 41, 0.52);
+  }
+
+  .generation-item[data-gen="virgo"]:hover {
+    background: rgba(167, 118, 41, 0.40);
+  }
+
+  .generation-item[data-gen="libra"] {
+    background: rgba(155, 152, 55, 0.28);
+    border-color: rgba(155, 152, 55, 0.52);
+  }
+
+  .generation-item[data-gen="libra"]:hover {
+    background: rgba(155, 152, 55, 0.40);
+  }
+
+  .generation-item[data-gen="scorpio"] {
+    background: rgba(106, 105, 39, 0.28);
+    border-color: rgba(106, 105, 39, 0.52);
+  }
+
+  .generation-item[data-gen="scorpio"]:hover {
+    background: rgba(106, 105, 39, 0.40);
+  }
+
+  .generation-item[data-gen="sagittarius"] {
+    background: rgba(104, 172, 129, 0.28);
+    border-color: rgba(104, 172, 129, 0.52);
+  }
+
+  .generation-item[data-gen="sagittarius"]:hover {
+    background: rgba(104, 172, 129, 0.40);
+  }
+
+  .generation-item[data-gen="capricorn"] {
+    background: rgba(72, 166, 193, 0.28);
+    border-color: rgba(72, 166, 193, 0.52);
+  }
+
+  .generation-item[data-gen="capricorn"]:hover {
+    background: rgba(72, 166, 193, 0.40);
+  }
+
+  .generation-item input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid var(--checkbox);
+    border-radius: 4px;
+    flex-shrink: 0;
+    cursor: pointer;
+    position: relative;
+    transition: border-color 0.15s, background 0.15s;
+  }
+
+  .generation-item input[type="checkbox"]:checked {
+    background: var(--checkbox);
+    border-color: var(--checkbox);
+  }
+
+  .generation-item input[type="checkbox"]:checked::after {
+    content: '';
+    position: absolute;
+    left: 5px;
+    top: 1px;
+    width: 6px;
+    height: 11px;
+    border: solid var(--bg);
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+  }
+
+  .gen-label {
+    display: flex;
+    flex-direction: column;
+    gap: 0.125rem;
+    line-height: 1.3;
+  }
+
+  .gen-label .sign {
+    font-size: 1rem;
+    color: var(--text);
+  }
+
+  .gen-label .years {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  /* --- Buttons --- */
+  .btn {
+    font-family: inherit;
+    font-size: 1.125rem;
+    padding: 0.875rem 2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.15s, opacity 0.15s;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .btn-primary {
+    background: var(--accent);
+    color: var(--bg);
+    font-weight: 600;
+  }
+
+  .btn-primary:hover { background: #d4b578; }
+
+  .btn-primary:disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+  }
+
+  .btn-secondary {
+    background: var(--surface);
+    color: var(--text);
+    border: 1px solid var(--border);
+    font-size: 1rem;
+  }
+
+  .btn-secondary:hover { background: var(--surface-hover); }
+
+  /* --- Card display --- */
+  .card-area {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 480px;
+    gap: 1.5rem;
+  }
+
+  .card-area.visible {
+    display: flex;
+  }
+
+  .card {
+    width: 100%;
+    min-height: 220px;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 2rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    animation: fadeIn 0.35s ease;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card-question {
+    font-size: 1.375rem;
+    line-height: 1.5;
+    color: var(--text);
+  }
+
+  .card-tag {
+    margin-top: 1.25rem;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .card-actions {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .empty-message {
+    text-align: center;
+    color: var(--text-muted);
+    font-style: italic;
+    font-size: 1rem;
+    padding: 1rem;
+  }
+
+  .setup-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 420px;
+  }
+
+  .setup-area.hidden { display: none; }
+
+  .prompt-text {
+    font-size: 1.33rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    margin-bottom: 1.25rem;
+    text-align: center;
+  }
+
+  .bottom-banner {
+    margin-top: 1.5rem;
+    width: 100%;
+    max-width: 480px;
+    padding-top: 0;
+  }
+
+  .bottom-banner img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  /* Responsive */
+  @media (max-width: 380px) {
+    body { padding: 1.25rem 1rem; }
+    h1 { font-size: 1.5rem; }
+    .title-image { max-height: 42px; }
+    .title-image-left { height: 60px; }
+    .card-question { font-size: 1.2rem; }
+    .card { padding: 1.5rem 1.25rem; min-height: 180px; }
+  }
+</style>
+</head>
+<body>
+<div class="title-row">
+  <img class="title-image title-image-left" src="LOGO.png" alt="Logo">
+  <h1>At the Table</h1>
+  <img class="title-image" src="PLUTO.png" alt="Pluto">
+</div>
+<p class="subtitle">Conversations across generations</p>
+
+<!-- Setup: choose who's at the table -->
+<div class="setup-area" id="setup">
+  <p class="prompt-text">Who's at the table?</p>
+  <div class="generation-list" id="genList"></div>
+  <button class="btn btn-primary" id="drawBtn" disabled>Draw a Card</button>
+</div>
+
+<!-- Card display area -->
+<div class="card-area" id="cardArea">
+  <div class="card" id="card">
+    <p class="card-question" id="cardQuestion"></p>
+    <p class="card-tag" id="cardTag"></p>
+  </div>
+  <div class="card-actions">
+    <button class="btn btn-primary" id="drawAgainBtn">Draw Again</button>
+    <button class="btn btn-secondary" id="backBtn">Change Table</button>
+  </div>
+</div>
+
+<div class="bottom-banner">
+  <img src="flag-banner.png" alt="Flag banner">
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  // Generation definitions — order matches the book's Pluto progression
+  const GENERATIONS = [
+    { key: 'leo',         sign: 'Pluto in Leo',          years: 'Born 1939–1957', desc: 'Silent Generation / early Boomers' },
+    { key: 'virgo',       sign: 'Pluto in Virgo',        years: 'Born 1957–1972', desc: 'Late Boomers / early Gen X' },
+    { key: 'libra',       sign: 'Pluto in Libra',        years: 'Born 1972–1984', desc: 'Gen X' },
+    { key: 'scorpio',     sign: 'Pluto in Scorpio',      years: 'Born 1984–1995', desc: 'Millennials' },
+    { key: 'sagittarius', sign: 'Pluto in Sagittarius',  years: 'Born 1995–2008', desc: 'Elder Gen Z' },
+    { key: 'capricorn',   sign: 'Pluto in Capricorn',    years: 'Born 2008–2024', desc: 'Younger Gen Z / Gen Alpha' },
+  ];
+
+  // Friendly display names for tags on the card
+  const TAG_NAMES = {
+    leo: 'Leo',
+    virgo: 'Virgo',
+    libra: 'Libra',
+    scorpio: 'Scorpio',
+    sagittarius: 'Sagittarius',
+    capricorn: 'Capricorn',
+  };
+
+  let allQuestions = [];
+  let drawnIds = [];  // track already-drawn questions in a session to avoid immediate repeats
+
+  const genListEl    = document.getElementById('genList');
+  const drawBtn      = document.getElementById('drawBtn');
+  const setupEl      = document.getElementById('setup');
+  const cardAreaEl   = document.getElementById('cardArea');
+  const cardEl       = document.getElementById('card');
+  const cardQuestion = document.getElementById('cardQuestion');
+  const cardTag      = document.getElementById('cardTag');
+  const drawAgainBtn = document.getElementById('drawAgainBtn');
+  const backBtn      = document.getElementById('backBtn');
+
+  // Build generation checkboxes
+  GENERATIONS.forEach(function (gen) {
+    const label = document.createElement('label');
+    label.className = 'generation-item';
+    label.setAttribute('data-gen', gen.key);
+
+    const checkbox = document.createElement('input');
+    checkbox.type = 'checkbox';
+    checkbox.value = gen.key;
+    checkbox.addEventListener('change', onSelectionChange);
+
+    const textWrap = document.createElement('span');
+    textWrap.className = 'gen-label';
+    textWrap.innerHTML =
+      '<span class="sign">' + gen.sign + '</span>' +
+      '<span class="years">' + gen.years + ' · ' + gen.desc + '</span>';
+
+    label.appendChild(checkbox);
+    label.appendChild(textWrap);
+    genListEl.appendChild(label);
+  });
+
+  // Enable the draw button only when at least one generation is checked
+  function onSelectionChange() {
+    var checked = getCheckedGenerations();
+    drawBtn.disabled = checked.length === 0;
+  }
+
+  function getCheckedGenerations() {
+    return Array.from(genListEl.querySelectorAll('input:checked')).map(function (cb) {
+      return cb.value;
+    });
+  }
+
+  // Filter questions based on who's at the table:
+  //   - generation-specific: include if ANY of its tags match a checked generation
+  //   - bridge:              include only if ALL of its tags are in the checked set
+  //   - universal:           always include
+  function getEligibleQuestions(checked) {
+    return allQuestions.filter(function (q) {
+      if (q.type === 'universal') {
+        return true;
+      }
+      if (q.type === 'bridge') {
+        // Every generation the bridge question requires must be present at the table
+        return q.generations.every(function (tag) {
+          return checked.indexOf(tag) !== -1;
+        });
+      }
+      // generation-specific: at least one tag matches
+      return q.generations.some(function (tag) {
+        return checked.indexOf(tag) !== -1;
+      });
+    });
+  }
+
+
+  // Draw a random question, avoiding immediate repeats when possible
+  function drawQuestion() {
+    var checked = getCheckedGenerations();
+    var eligible = getEligibleQuestions(checked);
+
+    if (eligible.length === 0) {
+      cardQuestion.textContent = 'No questions available for the selected generations yet.';
+      cardTag.textContent = '';
+      return;
+    }
+
+    // Filter out already-drawn questions if possible
+    var fresh = eligible.filter(function (q) {
+      return drawnIds.indexOf(q.id) === -1;
+    });
+
+    // If we've exhausted the pool, reset
+    if (fresh.length === 0) {
+      drawnIds = [];
+      fresh = eligible;
+    }
+
+    var pick = fresh[Math.floor(Math.random() * fresh.length)];
+    drawnIds.push(pick.id);
+
+    // Display
+    cardQuestion.textContent = pick.text;
+
+    // Build the tag label
+    var tagParts = pick.generations.map(function (g) { return TAG_NAMES[g] || g; });
+    var typeLabel = pick.type === 'bridge' ? 'Bridge' : pick.type === 'universal' ? 'Universal' : 'Generation-specific';
+    cardTag.textContent = typeLabel + ' · ' + tagParts.join(' & ');
+
+    // Re-trigger the fade animation
+    cardEl.style.animation = 'none';
+    void cardEl.offsetHeight;
+    cardEl.style.animation = '';
+  }
+
+  // Show the card view
+  function showCard() {
+    setupEl.classList.add('hidden');
+    cardAreaEl.classList.add('visible');
+    drawQuestion();
+  }
+
+  // Return to the setup view
+  function showSetup() {
+    cardAreaEl.classList.remove('visible');
+    setupEl.classList.remove('hidden');
+    drawnIds = [];
+  }
+
+  drawBtn.addEventListener('click', showCard);
+  drawAgainBtn.addEventListener('click', drawQuestion);
+  backBtn.addEventListener('click', showSetup);
+
+  // Load questions from external JSON
+  fetch('questions.json')
+    .then(function (res) {
+      if (!res.ok) throw new Error('Could not load questions.json');
+      return res.json();
+    })
+    .then(function (data) {
+      allQuestions = data.questions || [];
+    })
+    .catch(function (err) {
+      console.error(err);
+      allQuestions = [];
+    });
+
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,3789 @@
+{
+  "questions": [
+    {
+      "id": "specific-leo-001",
+      "text": "When was the moment you first felt truly powerful? What did you do with that power?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-002",
+      "text": "The 1960s were your coronation moment — what did it feel like to believe you could remake the world?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-003",
+      "text": "What do you think your generation got right that the world still urgently needs?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-004",
+      "text": "What do you think your generation got wrong, and what would you tell your younger self?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-005",
+      "text": "What's the most important thing you've created in your lifetime — and does it outlive you?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-006",
+      "text": "You came of age in postwar prosperity, then watched everything fracture. When did you first realize the golden world you were raised in wasn't real?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-007",
+      "text": "Was Woodstock (or the counterculture of that era) a genuine revolution — or did it ultimately get swallowed by the very system it was fighting?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-008",
+      "text": "You've watched America change dramatically in your lifetime. What do you mourn? What are you relieved about?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-009",
+      "text": "How has your relationship to power changed as you've moved from revolutionary to elder?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-010",
+      "text": "Who were the prophets of your generation — the voices that shaped you most deeply?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-011",
+      "text": "When you were young, you believed in reinventing the world. Looking back, what did you actually reinvent?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-012",
+      "text": "How do you reconcile the idealism of your youth with the pragmatism that adulthood demanded?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-013",
+      "text": "What does legacy mean to you at this stage of life?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-014",
+      "text": "As an elder, what wisdom feels urgent to pass on — and what do you wish younger generations would ask you?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-015",
+      "text": "Your generation witnessed the assassinations of JFK, MLK, and RFK. How did those losses shape your worldview?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-016",
+      "text": "What's the most profound thing you've learned about love in your lifetime?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-017",
+      "text": "You were born just as nuclear weapons became real. How did the shadow of potential annihilation shape your life?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-018",
+      "text": "Your generation made rock and roll into a revolution. What does that music still mean to you?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-019",
+      "text": "What do you make of today's political leaders compared to the figures you came of age watching?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-020",
+      "text": "If you could have a conversation with your 25-year-old self, what would surprise them most about who you became?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-021",
+      "text": "When did you feel like the world stopped listening to your generation — or do you feel it hasn't happened yet?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-022",
+      "text": "What's the hardest lesson your generation had to learn about idealism?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-023",
+      "text": "How do you feel about how power has been passed — or not passed — to younger generations?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-024",
+      "text": "What do you want written in your obituary that probably won't be?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-025",
+      "text": "Is there a cause or belief you held passionately in your youth that you've since let go of?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-026",
+      "text": "What does it feel like to observe the world from the vantage point of 70+ years of living?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-027",
+      "text": "Your generation pioneered the self-help and wellness movements. Has the quest for self-discovery been fulfilling?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-028",
+      "text": "What was the model for manhood or womanhood you were given — and how did you transform it?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-029",
+      "text": "What do you believe now about the world that you couldn't have believed when you were 30?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-leo-030",
+      "text": "If your generation could leave one gift to those who come after you, what would it be?",
+      "generations": [
+        "leo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-001",
+      "text": "Growing up, did you feel seen by the adults around you — or were you largely left to figure things out on your own?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-002",
+      "text": "What's the difference between service and self-sacrifice — and have you found that balance in your own life?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-003",
+      "text": "Your generation built much of the internet but always seemed skeptical of it. What do you know about digital life that younger generations don't?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-004",
+      "text": "What does 'good enough' mean to you — and is it ever actually good enough?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-005",
+      "text": "You came of age in an era of declining institutions. What, if anything, do you still trust?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-006",
+      "text": "What role did work play in your identity — and has that changed?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-007",
+      "text": "The latchkey experience meant learning independence young. What did that teach you? What did it cost you?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-008",
+      "text": "Your generation often served as the fixers during times of crisis. What does it feel like to always be the one who cleans up the mess?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-009",
+      "text": "What do you think your generation's quiet, behind-the-scenes contributions to society have been?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-010",
+      "text": "How do you hold your own perfectionism — as a strength, a burden, or both?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-011",
+      "text": "Environmental concerns were part of your formative world. How do you feel about what's actually been done — or not done?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-012",
+      "text": "What's one thing you've let yourself off the hook for — and how long did it take?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-013",
+      "text": "How do the cynicism and pragmatism that shaped your generation serve you now, at this stage of life?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-014",
+      "text": "What's the most important thing you've ever fixed — and did anyone notice?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-015",
+      "text": "Your generation witnessed massive institutional failure. What institutions, if any, do you still believe in?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-016",
+      "text": "Growing up in the shadow of Boomer idealism that didn't pan out — how did that shape your expectations?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-017",
+      "text": "What would you say to your younger self about the weight of responsibility you carried so early?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-018",
+      "text": "When have you allowed yourself to be truly cared for, rather than being the caretaker?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-019",
+      "text": "What do you think younger generations misunderstand most about your experience?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-020",
+      "text": "How has your relationship to health and the body evolved over your life?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-021",
+      "text": "You were the first generation to navigate the digital revolution from the inside. What surprised you most about how technology changed human relationships?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-022",
+      "text": "What does 'enough' look like in your life — financially, relationally, professionally?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-023",
+      "text": "If you could do one thing differently about how you showed up for younger people in your life, what would it be?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-024",
+      "text": "The grunge era was your music — raw, authentic, a little angry. What did it express for you that you couldn't say directly?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-025",
+      "text": "What's the hardest thing about watching an older generation hold onto power as you enter your late 50s and 60s?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-026",
+      "text": "When has your analytical nature saved you? When has it gotten in your way?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-027",
+      "text": "What is the most meaningful act of service you've given in your lifetime?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-028",
+      "text": "What do you want people to understand about the invisible labor your generation has provided?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-029",
+      "text": "How has your relationship to giving and receiving criticism evolved?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-virgo-030",
+      "text": "Looking forward: what does your elderhood look like? Are you ready to rest, or is there still work to do?",
+      "generations": [
+        "virgo"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-001",
+      "text": "You're the generation that grew up in an analog world and had to rewire yourself for a digital one. What was that transition like for you?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-002",
+      "text": "How did growing up during a wave of divorces shape your ideas about what lasting relationships look like?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-003",
+      "text": "What does 'balance' actually feel like when you achieve it — is it even achievable?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-004",
+      "text": "Your childhood was interrupted by the intensity of the 1980s — AIDS, economic anxiety, the end of innocence. When did you first feel the weight of the adult world pressing in?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-005",
+      "text": "How has your sense of fairness and justice shaped the choices you've made in your life?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-006",
+      "text": "The social justice movements of the last decade were largely led and shaped by your generation. What victories feel most meaningful? What feels unfinished?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-007",
+      "text": "What do you know about navigating between extremes that you wish you'd known at 25?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-008",
+      "text": "You've been called the 'forgotten generation' — too young to be Gen X, too old to be Millennials. How do you self-identify?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-009",
+      "text": "When have you had to take a real stand, even when it meant disrupting the harmony you value?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-010",
+      "text": "How has your experience of love and relationship evolved from your early adult years to now?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-011",
+      "text": "What does beauty mean to you — in art, in life, in people?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-012",
+      "text": "Your generation built social media. How do you feel about what it's become?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-013",
+      "text": "You were among the first to grow up with the AIDS epidemic as backdrop. How did that shadow of danger shape your understanding of intimacy?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-014",
+      "text": "What causes you to lose your sense of balance — and how do you find it again?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-015",
+      "text": "How do you navigate between being a mediator and taking a real position?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-016",
+      "text": "The marriage equality movement was a defining cause of your generation. How did it change your understanding of what love and partnership can be?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-017",
+      "text": "What's the relationship between your aesthetic sensibility and your deeper values?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-018",
+      "text": "You've watched the world of work transform dramatically in your career. What do you want work to mean?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-019",
+      "text": "When have you had to choose between keeping the peace and standing for justice?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-020",
+      "text": "As a parent or mentor, how do you approach the question of preparing young people for a complex world?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-021",
+      "text": "What does it mean to you to live a beautiful life — not just in an aesthetic sense?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-022",
+      "text": "How has your understanding of 'fairness' deepened or changed as you've encountered real power dynamics?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-023",
+      "text": "What's something you've finally stopped trying to balance and just let go of?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-024",
+      "text": "You're sandwiched between two of the largest generations in history. How does that position shape how you move through the world?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-025",
+      "text": "What does 'enough' look like inside a relationship?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-026",
+      "text": "Your childhood was shaped by the cultural intensity of the 1980s. How did that ultimately make you more resilient?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-027",
+      "text": "When have you experienced the world as genuinely beautiful and harmonious — and what made that possible?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-028",
+      "text": "What was the hardest relationship lesson you've learned?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-029",
+      "text": "What do you wish the generations on either side of you understood about your experience?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-libra-030",
+      "text": "Looking at the next chapter of your life, what legacy of fairness and beauty do you want to leave behind?",
+      "generations": [
+        "libra"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-001",
+      "text": "When did you first realize that the world wasn't what it was presented to be?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-002",
+      "text": "Your generation came of age in the post-9/11 surveillance state. How do you think about privacy and freedom now?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-003",
+      "text": "What's one truth you know deeply that you've never had quite the right audience for?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-004",
+      "text": "You were the first generation to fully inhabit the internet during childhood. What did that shape in you that couldn't have been shaped any other way?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-005",
+      "text": "How has your relationship to trust evolved — who do you trust now, and what did it take to get there?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-006",
+      "text": "The 2008 financial crisis hit just as you were entering the workforce. What did you learn about how the economy actually works?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-007",
+      "text": "What does transformation mean to you — how many times have you fundamentally changed?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-008",
+      "text": "How do you navigate between depth and darkness? When does the deep dive become something you need to surface from?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-009",
+      "text": "What does power look like at your best — not domination, but genuine empowerment?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-010",
+      "text": "Your generation saw through institutional authority early. What, if anything, do you choose to believe in despite the evidence?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-011",
+      "text": "What's the most honest thing you've ever said to someone that changed the relationship entirely?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-012",
+      "text": "How has your relationship to your own emotional intensity evolved?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-013",
+      "text": "What did your generation's obsession with exposing hidden truths reveal that actually needed to be seen?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-014",
+      "text": "How do you think about gender and identity in ways that differ from how your parents thought about them?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-015",
+      "text": "You were raised on a diet of contradiction — sex presented as both danger and spectacle. How have you built a healthy relationship with desire and intimacy?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-016",
+      "text": "What does healing mean to you — personal, collective, or both?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-017",
+      "text": "The concept of 'psychological safety' is something your generation has put at the center of the cultural conversation. Why does it matter so much?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-018",
+      "text": "What's the most powerful thing you've witnessed your generation achieve, despite everything working against it?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-019",
+      "text": "How do you hold both your skepticism and your capacity for deep feeling at the same time?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-020",
+      "text": "What's something that turned out to be true that everyone told you was a conspiracy or exaggeration?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-021",
+      "text": "How has becoming a parent or deeply caring for someone changed your relationship to vulnerability?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-022",
+      "text": "What does it mean to you to 'hold space' for someone — and where did you learn to do that?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-023",
+      "text": "Your generation has been called one of the most anxious in history. What has anxiety taught you about yourself?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-024",
+      "text": "What's one way you've fundamentally transformed something — about yourself, a relationship, or the world around you?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-025",
+      "text": "How do you balance the urge to expose and the wisdom of knowing when to let things stay in the dark?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-026",
+      "text": "What do you know about survival that you wish you didn't have to know?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-027",
+      "text": "What's the most important thing you want to transmit to the generation behind you?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-028",
+      "text": "How has the world's failure of your generation made you more compassionate toward others who've been failed by systems?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-029",
+      "text": "Your generation built — and in many ways radicalized — digital culture. What do you wish had gone differently?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-scorpio-030",
+      "text": "At this point in your life, what kind of depth and transformation are you moving toward?",
+      "generations": [
+        "scorpio"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-001",
+      "text": "What do you believe in — truly, deeply believe in — and how did you come to believe it?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-002",
+      "text": "The pandemic erased some of the most formative years of your life. What did you lose? What unexpected thing did you find?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-003",
+      "text": "How do you navigate a world where information is endless but truth feels scarce?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-004",
+      "text": "When did you first feel the weight of climate change as a real and personal reality, not just a news story?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-005",
+      "text": "Your generation was promised a world of boundless possibility and then handed economic restriction. What does that betrayal feel like?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-006",
+      "text": "What's something you created during or after the pandemic that you're genuinely proud of?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-007",
+      "text": "What does freedom mean to you — and does it feel accessible right now?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-008",
+      "text": "How do you process the gap between the ideals you were raised with and the reality you've inherited?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-009",
+      "text": "When have you fought for something bigger than yourself? What happened?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-010",
+      "text": "What's your relationship to institutions — government, education, religion? Do you see a path forward with any of them?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-011",
+      "text": "How does social media shape your sense of who you are — and do you like what it does to you?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-012",
+      "text": "When did you first encounter a belief system that genuinely challenged everything you thought you knew?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-013",
+      "text": "Your generation is deeply engaged with mental health conversations. What do you wish more people understood about what your generation has been through?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-014",
+      "text": "What does community mean to you — where do you actually find it?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-015",
+      "text": "What's one way you've chosen to live differently from the generation before you?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-016",
+      "text": "How do you think about the future — with hope, dread, or something more complicated?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-017",
+      "text": "What is one cause or movement you've invested yourself in — and do you still believe it was worth it?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-018",
+      "text": "How have you reconciled your relationship with digital life and what it costs you?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-019",
+      "text": "What has growing up in the age of viral truth and viral lies taught you about discernment?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-020",
+      "text": "What's something you deeply understand about the world that older generations seem to consistently miss?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-021",
+      "text": "How do you hold onto a sense of purpose in a world that often feels like it's ending?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-022",
+      "text": "What moment in your life felt like a genuine turning point — when did you first realize who you were becoming?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-023",
+      "text": "What spiritual, philosophical, or existential framework, if any, gives you meaning?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-024",
+      "text": "When you imagine the world in 20 years, what do you hope is different? What are you most afraid might be the same?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-025",
+      "text": "What does financial stability mean to you — and does it feel possible?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-026",
+      "text": "What's the most important thing your generation could teach older generations?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-027",
+      "text": "How has growing up online shaped your relationship to your own body and real-world presence?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-028",
+      "text": "What does it mean to you to have a purpose beyond survival?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-029",
+      "text": "What do you want the world to understand about what it's like to be your age right now?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-sagittarius-030",
+      "text": "What's one thing you've chosen to hope for, even against the odds?",
+      "generations": [
+        "sagittarius"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-001",
+      "text": "What's one thing about the world that you wish adults would actually listen to you about?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-002",
+      "text": "What do you want to be known for when you're older?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-003",
+      "text": "Growing up with so much information everywhere, how do you decide what to believe?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-004",
+      "text": "What's one skill or talent you have that tends to surprise people?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-005",
+      "text": "What's the most important thing you've learned in the last year?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-006",
+      "text": "When you imagine your future, what does a good life look like to you?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-007",
+      "text": "What's one problem in the world that you think your generation could actually help solve?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-008",
+      "text": "How do you feel about the future — honestly?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-009",
+      "text": "What's something you understand about technology that you wish older people got?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-010",
+      "text": "Who in your life has taught you the most about being a good person?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-011",
+      "text": "What's the hardest decision you've ever had to make?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-012",
+      "text": "What do you think is the biggest thing adults get wrong about young people today?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-013",
+      "text": "If you could change one rule — at home, at school, or in society — what would it be and why?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-014",
+      "text": "What does loyalty mean to you?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-015",
+      "text": "When did you first feel like your opinion really mattered to someone?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-016",
+      "text": "What's one thing you've seen broken in the world that you'd like to help fix?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-017",
+      "text": "Who is someone you look up to, and what makes them worthy of that?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-018",
+      "text": "What's something you've had to figure out on your own that you wish someone had helped you with?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-019",
+      "text": "How do you handle it when systems or people don't treat others fairly?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-020",
+      "text": "What's the most important quality you look for in a friend?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-021",
+      "text": "What's one thing you create — art, music, code, writing, games — that genuinely means something to you?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-022",
+      "text": "How do you stay grounded when the world feels chaotic or uncertain?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-023",
+      "text": "What does 'success' actually mean to you — not what adults say it means, but what you actually think?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-024",
+      "text": "What's one thing the internet has given you that you're genuinely grateful for?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-025",
+      "text": "How do you balance your digital life with your real-world life?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-026",
+      "text": "What's one memory from your childhood that you want to hold onto forever?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-027",
+      "text": "What does fairness look like in practice, in your everyday life?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-028",
+      "text": "If you could have a conversation with someone from any other generation in history, what would you want to ask them?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-029",
+      "text": "What do you think the world needs more of right now?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "specific-capricorn-030",
+      "text": "What's one thing you believe that most people your age might not?",
+      "generations": [
+        "capricorn"
+      ],
+      "type": "generation-specific"
+    },
+    {
+      "id": "bridge-leo-virgo-001",
+      "text": "One of you grew up in postwar optimism and one grew up in its fracturing. What's the most important thing each of you learned from the world you were raised in?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-002",
+      "text": "Fire meets Earth: Leo tends toward grand expression and Virgo toward careful service. When do you feel you need what the other has?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-003",
+      "text": "Pluto in Virgo — what did the Leo generation teach you about power, and what did you quietly decide to reject?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-004",
+      "text": "Pluto in Virgo, you were often the invisible support behind the scenes. When did you feel truly seen by the generation before you?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-005",
+      "text": "What do you imagine each other's deepest fear to be — and how close are you to the truth?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-006",
+      "text": "The Leo generation often described itself as history's most pivotal generation. Pluto in Virgo — what was it like to grow up alongside that certainty? What did you quietly do with it?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-007",
+      "text": "What has each of you learned about gratitude — and how different does that lesson look depending on when you were born?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-008",
+      "text": "Virgo, you inherited a world the Leo generation built but didn't finish fixing. What's your honest relationship to that inheritance today?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-009",
+      "text": "Leo, what do you most admire about the generation that followed you — even if you wouldn't have done it their way?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-010",
+      "text": "Where do you see the most painful gap between what the Leo generation intended and what the Virgo generation actually experienced?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-011",
+      "text": "What role has the parent-or-elder / child-or-younger dynamic played between your generations — and how do you feel about being cast in those roles?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-012",
+      "text": "What did each of you have to grieve — and how early did that grief begin?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-013",
+      "text": "If you sat down together to solve one real problem in the world right now, which would you choose — and why would your generational combination be suited to it?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-014",
+      "text": "What does 'enough' mean to each of you — financially, relationally, existentially — and how different are those definitions?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-virgo-015",
+      "text": "What's one conversation you wish had happened between your generations earlier — and is it still possible to have it now?",
+      "generations": [
+        "leo",
+        "virgo"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-001",
+      "text": "You both lived through the 1970s — one as a liberated adult, one as a child watching the adults. What does that decade mean to each of you?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-002",
+      "text": "Leo carries fire and sovereignty; Libra carries beauty and fairness. Where do those energies meet in your relationship — and where do they clash?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-003",
+      "text": "The sexual and social freedoms that the Leo generation pioneered played out in Libra's childhood. How has that shaped your different understandings of what freedom means?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-004",
+      "text": "What do you wish the other generation had asked you more often?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-005",
+      "text": "What's the most important thing you've ever learned from someone of the other generation?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-006",
+      "text": "Libra grew up watching the Leo generation define cool — music, style, counterculture. How does that inheritance sit with you now?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-007",
+      "text": "What does authority look like to each of you — and how did growing up in your respective eras shape that?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-008",
+      "text": "Leo, you changed the rules about what a life could look like. Libra, you had to live inside the aftermath of that change. What's the most honest thing you can say to each other about that?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-009",
+      "text": "How do you each navigate nostalgia — and are you nostalgic for the same things, or for something completely different?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-010",
+      "text": "The Leo generation championed individual expression; the Libra generation championed equality and partnership. Where do those values complement each other — and where do they create real tension?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-011",
+      "text": "What does mentorship mean to each of you — and has it looked different coming from vs. going to the other generation?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-012",
+      "text": "What's the most significant social change that happened in your shared lifetime — and do you see its effects differently from your respective vantage points?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-013",
+      "text": "How do you each define 'freedom' — and how does your generation's particular experience shape that definition?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-014",
+      "text": "If Leo is fire and Libra is air, air feeds fire. Where have you seen that dynamic play out in your actual relationship or your generations' relationship?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-libra-015",
+      "text": "What's one thing about the other generation that still genuinely surprises or moves you?",
+      "generations": [
+        "leo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-001",
+      "text": "You are the generation of fire and the generation of water — of visibility and of depth. What does the other bring to a conversation that you can't access on your own?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-002",
+      "text": "Pluto in Leo was born in an era of grand spectacle; Pluto in Scorpio was born in an era of hidden power and betrayal. How do you understand each other's relationship to power?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-003",
+      "text": "The world your generation built is the world the other generation had to navigate. What do you want to say to each other about that?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-004",
+      "text": "Where do you find common ground on what actually needs to change?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-005",
+      "text": "What truth would you want to tell someone of the other generation that you haven't been able to say yet?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-006",
+      "text": "Leo was raised on visibility and public performance; Scorpio was raised inside an internet culture of anonymity and exposure. How do you understand each other's relationship to being seen?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-007",
+      "text": "What does healing look like to each of you — and how does your generational experience shape what that word even means?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-008",
+      "text": "Scorpio, you've often named what the Leo generation preferred not to look at directly. How has that dynamic shaped your sense of your own power?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-009",
+      "text": "Leo, what do you make of the Scorpio generation's insistence on psychological depth, trauma awareness, and naming what was hidden?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-010",
+      "text": "Where have you found that your very different energies — grand and sweeping vs. deep and precise — actually reinforce each other?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-011",
+      "text": "What crisis brought out the best in each of your generations — and what do you most admire about how the other rose to meet it?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-012",
+      "text": "How do you each hold the past — with pride, grief, regret, or something altogether more complicated?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-013",
+      "text": "What does intimacy mean to each of you — and how has that definition shifted across your very different lifetimes?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-014",
+      "text": "What have you learned from someone of the other generation that you genuinely couldn't have learned from your own?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-scorpio-015",
+      "text": "If you were going to write a letter to each other's generation — not a critique, but a love letter — what would you say?",
+      "generations": [
+        "leo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-001",
+      "text": "Astrology suggests your two generations share a fire trine — a natural resonance across the years. Do you feel it? Where does it show up?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-002",
+      "text": "What does it mean to carry the fire of your respective generations — the elder fire and the younger fire — into this moment in history?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-003",
+      "text": "You may be 60+ years apart. What surprises you most when you actually sit down and talk with each other?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-004",
+      "text": "Both your generations have been accused of idealism. How do you feel about that accusation?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-005",
+      "text": "If you were going to collaborate on changing one thing in the world together, what would it be?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-006",
+      "text": "Both of you have been accused of 'too much' — too loud, too bold, too idealistic. How do you feel about that criticism from each other's vantage points?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-007",
+      "text": "What's the most important thing the elder fire can pass to the younger fire — and is that transmission actually happening in practice?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-008",
+      "text": "Leo had the civil rights movement; Sagittarius had the climate movement and #MeToo. What do those respective movements share — and where do they fundamentally diverge?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-009",
+      "text": "Music was a revolution for the Leo generation. What serves that same function for the Sagittarius generation — and does the Leo generation recognize it as such?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-010",
+      "text": "What does 'changing the world' actually look like to each of you — and how has the answer evolved over the arc of your respective lives?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-011",
+      "text": "What brings you both genuine hope — and is it even the same thing?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-012",
+      "text": "Leo, what do you wish you could tell the younger generation about what actually lasts, beyond the fire of the revolution?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-013",
+      "text": "Sagittarius, what do you want the elder generation to understand about what it's like to come of age when the institutions are already visibly crumbling?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-014",
+      "text": "What do you each believe about human nature — and how has your generation's experience most shaped that belief?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-sagittarius-015",
+      "text": "What is the most unexpected thing you've discovered you have in common?",
+      "generations": [
+        "leo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-001",
+      "text": "You are among the eldest living generation and among the youngest. What do you most want to say to each other while you have the chance?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-002",
+      "text": "The Leo generation built much of the world that the Capricorn generation is inheriting. What do you hope they keep — and what would you be relieved to have them let go of?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-003",
+      "text": "What do you think the youngest generation already understands about survival and navigating broken systems?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-004",
+      "text": "What would you ask this person from the other generation that you've never had a chance to ask anyone from that era before?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-005",
+      "text": "What gift — a story, a lesson, a way of seeing the world — would you most want to pass between your generations?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-006",
+      "text": "Leo, what's the most important story you carry that you haven't yet found the right person to tell?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-007",
+      "text": "Capricorn, if you could ask someone who actually lived through the 1960s one thing, what would it be?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-008",
+      "text": "What does 'growing up' mean to each of you — and how different are those definitions across 60+ years of change?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-009",
+      "text": "Leo, what do you most want this young generation to know about what the world felt like when things still seemed genuinely possible?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-010",
+      "text": "What do you think each of you is most afraid of — and does either of those fears feel at all familiar to the other?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-011",
+      "text": "What does it mean to have lived through — or to be born into — a time of profound historical rupture?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-012",
+      "text": "Leo, what surprises you most about the youngest generation? Capricorn, what surprises you most about the eldest?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-013",
+      "text": "What does 'respect' mean to each of you — and is it even the same concept across 60+ years of cultural change?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-014",
+      "text": "If you could spend a day in the other person's time — their era, their world — what's the first thing you'd want to experience?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-leo-capricorn-015",
+      "text": "What is the single most important thing you want the other to remember about this conversation?",
+      "generations": [
+        "leo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-001",
+      "text": "You're close in age — sometimes in the same family or friend group. What do you understand about each other that outsiders tend to miss?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-002",
+      "text": "Virgo leans toward analysis and service; Libra leans toward aesthetics and relationship. When do those tendencies complement each other, and when do they frustrate?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-003",
+      "text": "Your childhoods were different even though you're close in age — how has that shaped who you each became?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-004",
+      "text": "Where in your life have you wished you had more of what the other generation embodies?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-005",
+      "text": "What question would you ask someone from the adjacent generation that you've never quite dared to ask?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-006",
+      "text": "You're so close in age that people outside your friendship sometimes don't realize you're different generations. Does that proximity feel like a gift or a complication?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-007",
+      "text": "How did each of you navigate the transition from the analog to the digital world — and who found it harder, or found different parts of it harder?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-008",
+      "text": "Virgo came of age in cynicism; Libra came of age in aspiration toward beauty and partnership. Where do those different emotional starting points show up in how you relate to each other?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-009",
+      "text": "What does work-life balance mean to each of you — and has your answer changed in the last decade?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-010",
+      "text": "How do you each process deep uncertainty — and who's more at peace with it?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-011",
+      "text": "What have you taught each other without ever intending to?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-012",
+      "text": "What does friendship mean to each of you — and where do your generational assumptions about it most differ?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-013",
+      "text": "What's the funniest or most surprising difference you've noticed between how your generations approach exactly the same thing?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-014",
+      "text": "Is there something you've built together — literally or metaphorically — that you couldn't have built alone?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-libra-015",
+      "text": "What do you each want the other to know about the invisible weight you carry?",
+      "generations": [
+        "virgo",
+        "libra"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-001",
+      "text": "Earth and water often create fertile ground together. Where have you found that the pragmatism of one generation and the depth of the other actually work beautifully together?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-002",
+      "text": "What does service without martyrdom look like to each of you?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-003",
+      "text": "Pluto in Virgo, you often worked invisibly within systems. Pluto in Scorpio, you often worked to expose or dismantle them. How do you understand each other's strategy?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-004",
+      "text": "What's the most important thing you want the other to know about why your generation does what it does?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-005",
+      "text": "Where do you recognize yourself in the other generation — even if it looks different on the outside?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-006",
+      "text": "Virgo was often left to figure things out alone; Scorpio was raised inside a culture that exposed hidden systems. How has self-reliance looked different for each of you?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-007",
+      "text": "What does accountability mean to each of you — and how has your generation's particular experience shaped your answer?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-008",
+      "text": "Virgo, you watched the systems grind quietly on; Scorpio, you tried to pull the curtain back. What do you each wish the other had done differently?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-009",
+      "text": "What does rest mean to each of you — and do either of you actually allow yourselves to take it fully?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-010",
+      "text": "How do you each handle betrayal — and are there patterns from your generational formation that show up in your response?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-011",
+      "text": "What has the Scorpio generation's willingness to name and process trauma meant to the more stoic Virgo generation, honestly?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-012",
+      "text": "What does mentorship look like between your generations — who mentors whom, and what does it actually look like in practice?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-013",
+      "text": "When have you witnessed someone from the other generation do something that genuinely stopped you and made you think?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-014",
+      "text": "What do you each love most about the world as it is right now — and does the other generation see that same thing?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-scorpio-015",
+      "text": "If you could change one misperception the other generation holds about yours, what would it be?",
+      "generations": [
+        "virgo",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-001",
+      "text": "Earth and fire are in creative tension — Virgo grounds and limits, Sagittarius expands and seeks. Where does that tension show up between you?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-002",
+      "text": "Virgo often carried responsibility without asking for it; Sagittarius often chafed against restrictions. What do you quietly envy about each other's orientation to the world?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-003",
+      "text": "What does caution have to offer someone whose instinct is to leap? What does expansive thinking offer someone whose instinct is to be careful?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-004",
+      "text": "What's the biggest misunderstanding between your generations — and what would actually help fix it?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-005",
+      "text": "What do you wish you could ask the other about their experience of navigating this particular moment in history?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-006",
+      "text": "What's one piece of practical wisdom the Virgo generation holds that the Sagittarius generation urgently needs — and what wisdom flows the other direction?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-007",
+      "text": "Virgo was taught to earn their place quietly; Sagittarius was taught to claim their place loudly. Where do those strategies collide — and where do they actually complement each other?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-008",
+      "text": "What does hope feel like to each of you — and how have your generation's particular disappointments shaped it?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-009",
+      "text": "Virgo, how do you feel about how openly the Sagittarius generation talks about mental health in public? Sagittarius, how do you feel about how privately the Virgo generation tended to process the same things?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-010",
+      "text": "What's the most valuable thing Gen X quietly built that Gen Z is still benefiting from — even when they don't realize it?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-011",
+      "text": "What does resourcefulness look like to each of you — and under which generation's circumstances was it harder to practice?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-012",
+      "text": "How has financial precarity shown up differently at different life stages for each of you — and where do you find each other's experiences recognizable?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-013",
+      "text": "What does loyalty mean to each of you — and does that concept feel like it's shifting across generations?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-014",
+      "text": "What do you each genuinely enjoy about modern life, separate from the weight of what's broken?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-sagittarius-015",
+      "text": "What would a world that was genuinely good for both of your generations look like?",
+      "generations": [
+        "virgo",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-001",
+      "text": "You're both Earth generations — pragmatic, grounded, oriented toward survival. What does that shared element tell you about each other?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-002",
+      "text": "What did decades of invisible work teach the Pluto in Virgo generation that could genuinely serve the Pluto in Capricorn generation now?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-003",
+      "text": "Gen Alpha, you've grown up with no illusions about institutions. Gen X, you built many of those institutions with careful, diligent work. How do you feel about each other?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-004",
+      "text": "What wisdom do you most want to pass to — or receive from — the other generation?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-005",
+      "text": "What does 'doing the work' mean to each of you?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-006",
+      "text": "What's the most surprising thing about each other, given that you share the same Earth element and a similar pragmatic orientation?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-007",
+      "text": "Virgo learned pragmatism the hard way, through experience; Capricorn seems to have arrived with it already installed. What does each of you make of that?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-008",
+      "text": "What does 'building something that lasts' mean to each of you — and how different are your frames of reference?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-009",
+      "text": "Virgo, what do you most want to protect young people from having to experience — and is that protection even possible?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-010",
+      "text": "Capricorn, what's something you've already figured out that genuinely surprises you adults haven't?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-011",
+      "text": "How does each of you think about the relationship between individual effort and systemic change?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-012",
+      "text": "What does stability mean to each of you — and does it feel achievable from where you're standing?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-013",
+      "text": "How do you each carry responsibility — as burden, calling, identity, or something else entirely?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-014",
+      "text": "What's one thing the Capricorn generation has already figured out that the Virgo generation is still working through?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-virgo-capricorn-015",
+      "text": "If you could build anything together — no limitations — what would you build?",
+      "generations": [
+        "virgo",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-001",
+      "text": "You're often siblings, close friends, or close in age — one seeking beauty and balance, one seeking depth and truth. How has that dynamic shaped your relationship?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-002",
+      "text": "Air and water, aesthetics and intensity. Where have those energies been in productive tension in your lives?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-003",
+      "text": "Pluto in Libra grew up in Scorpio's era and was shaped by its darkness. What did that forced initiation teach you that the Scorpio generation would recognize?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-004",
+      "text": "What does each of you offer the other that they wouldn't naturally access on their own?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-005",
+      "text": "When have you most needed what the other generation's energy provides — the harmony, or the depth?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-006",
+      "text": "Libra seeks to smooth and harmonize; Scorpio seeks to uncover and transform. How do those orientations play out when you actually disagree?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-007",
+      "text": "What does beauty mean to each of you — and is the Scorpio generation's sense of beauty recognizable to Libra at all?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-008",
+      "text": "You came of age on opposite sides of the early internet — Libra helped build it, Scorpio grew up inside it. How does that shape your relationship to technology today?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-009",
+      "text": "What's the most Scorpio thing about the Libra generation — and the most Libra thing about the Scorpio generation?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-010",
+      "text": "Where have you had to hold each other up — and what did that actually look like in practice?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-011",
+      "text": "What does each of you think the other is secretly most afraid of?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-012",
+      "text": "Libra, when the Scorpio generation insists on looking directly at the dark thing, what do you actually feel? Scorpio, when the Libra generation tries to reframe or find the silver lining, what do you feel?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-013",
+      "text": "How do you each navigate the gap between the world you imagined and the world you actually got?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-014",
+      "text": "What have you each had to let go of — and did the other generation understand what it cost?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-scorpio-015",
+      "text": "What do you love most about the generation you're standing closest to in this moment?",
+      "generations": [
+        "libra",
+        "scorpio"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-001",
+      "text": "Air and fire are naturally compatible — both social, expansive energies. Where do you find the most resonance between you?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-002",
+      "text": "Libra seeks justice; Sagittarius seeks truth. How are those related — and where do they diverge?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-003",
+      "text": "Social media was built largely by the Libra generation and fully inhabited by the Sagittarius generation. How do you each experience what it's become?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-004",
+      "text": "What does it look like when the mediators and the truth-seekers actually collaborate on something that matters?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-005",
+      "text": "What question do you wish you could ask the other that you've been afraid to ask?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-006",
+      "text": "Libra often seeks common ground before conflict; Sagittarius often leads with truth even when it disrupts. What have you genuinely learned from each other's approach?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-007",
+      "text": "What does activism look like to each of you — and how has your definition of it changed across your lifetime so far?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-008",
+      "text": "Libra built the early days of internet culture; Sagittarius came of age inside what that culture became. What do you each think went wrong — and was it inevitable?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-009",
+      "text": "What does optimism feel like to each of you — and is it the same flavor, or something quite different?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-010",
+      "text": "How has each of you related to the concept of 'identity' — and how has that concept clearly shifted between your generations?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-011",
+      "text": "What's a cause you've both cared about — and where have your approaches to pursuing it most differed?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-012",
+      "text": "Libra often absorbs the emotional weight of groups; Sagittarius often names what others won't say. Where does that dynamic help — and where does it create friction between you?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-013",
+      "text": "What's something each of you has risked for something you genuinely believed in?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-014",
+      "text": "How do you each think about the future — and whose version of that future would you most want to inhabit?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-sagittarius-015",
+      "text": "What's one thing about the other generation that gives you honest, unguarded hope?",
+      "generations": [
+        "libra",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-001",
+      "text": "A Libra parent and a Capricorn child: what's the most important thing you want them to hold onto from the world that shaped you?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-002",
+      "text": "One of you came of age believing in balance and fairness; one of you was born into a world where those concepts often feel abstract or naïve. How does that difference show up in how you each see the world?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-003",
+      "text": "What does the Pluto in Capricorn generation seem to already understand about power and survival that the Libra generation is still working through?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-004",
+      "text": "How do you talk to each other about hope — and what does hope actually look like for each of you?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-005",
+      "text": "What's something the other generation does that you genuinely admire?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-006",
+      "text": "Libra grew up believing that relationships and fairness could remake the world. Capricorn is growing up inside a world that tests those beliefs daily. What does each of you actually believe about fairness now?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-007",
+      "text": "What does play look like to each of you — and how does a generation's circumstances shape how it plays and rests?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-008",
+      "text": "Libra, what's one thing from your childhood that still feels worth preserving and passing forward?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-009",
+      "text": "Capricorn, what's one thing about the world right now that you wish the adults would stop pretending is fine?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-010",
+      "text": "How does each of you define 'home' — and how has that concept changed, or not yet had the chance to change?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-011",
+      "text": "What does the Libra generation's pursuit of beauty and justice look like from the Capricorn perspective — naïve, admirable, or something more complicated?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-012",
+      "text": "How do you each relate to authority — and do you find each other's approach complementary or genuinely confusing?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-013",
+      "text": "What does growing up mean to each of you? And how do your answers reflect your completely different historical moments?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-014",
+      "text": "What's one way the Libra generation has — or hasn't — prepared the world the Capricorn generation is inheriting?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-libra-capricorn-015",
+      "text": "What's one thing you'd actually like to do or experience together?",
+      "generations": [
+        "libra",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-001",
+      "text": "Water and fire: depth vs. expansion, intensity vs. freedom. Where do those energies clash most between you — and where do they ignite something unexpected?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-002",
+      "text": "Both of you have experienced profound disillusionment with institutions and systems. What's still worth believing in?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-003",
+      "text": "Scorpio tends to search for hidden truth; Sagittarius tends to proclaim it openly. What does each approach miss — and what does it catch?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-004",
+      "text": "You're close in age — often in the same spaces. What do you understand about each other that outsiders overlook?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-005",
+      "text": "What do you need from each other right now — in this moment, in this world?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-006",
+      "text": "You're often in the same workplaces, movements, and relationships. What do you understand about each other's real experience that your generational labels tend to obscure?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-007",
+      "text": "What does disillusionment actually feel like to each of you — and have you found a way through it, or are you still working on it?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-008",
+      "text": "Scorpio tends to build slowly by going deep; Sagittarius tends to build broadly by covering ground fast. What does each approach miss — and what does the other bring as a corrective?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-009",
+      "text": "How has each of you related to the concept of 'authenticity' — and do you actually define it the same way?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-010",
+      "text": "What does the mental health conversation look like from inside each of your generations — and where do you most genuinely agree?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-011",
+      "text": "Scorpio came into adulthood during the 2008 financial crisis; Sagittarius came in during or after the pandemic. What has each of you had to rebuild essentially from scratch?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-012",
+      "text": "What's something you've each witnessed your generation do that you're genuinely proud of — no caveats?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-013",
+      "text": "Where do your different approaches to truth — finding it vs. proclaiming it — create sparks between you, and where do they create friction?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-014",
+      "text": "What does community mean to each of you — and are your definitions converging or pulling apart?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-sagittarius-015",
+      "text": "If you were standing at the edge of a genuinely uncertain future together, what would each of you bring?",
+      "generations": [
+        "scorpio",
+        "sagittarius"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-001",
+      "text": "One of you grew up learning to survive a world that hid its darkness; the other was born into a world where the darkness was fully visible from the start. What's the difference in how that shapes a person?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-002",
+      "text": "What does it mean to the Scorpio generation to see the next generation come into the world with absolutely no illusions?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-003",
+      "text": "Where does the depth and intensity of Scorpio find common cause with the pragmatic resilience of Capricorn?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-004",
+      "text": "What's something you'd tell someone from the other generation that you haven't quite figured out how to say yet?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-005",
+      "text": "What does transformation mean to each of you — and how does it differ at your respective ages?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-006",
+      "text": "Scorpio learned to survive by uncovering hidden systems; Capricorn seems to have arrived already knowing those systems are unreliable. What does each of you make of that difference in starting point?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-007",
+      "text": "What does emotional intelligence look like to each of you — and how is it being shaped by your very different historical moments?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-008",
+      "text": "Scorpio, what's the single most important thing you wish you'd known at the age the Capricorn generation is right now?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-009",
+      "text": "Capricorn, what's something you think you already understand about the world that even perceptive Millennials are still working out?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-010",
+      "text": "How does each of you think about legacy — what you'll leave behind, what you'll inherit, what you'll transform?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-011",
+      "text": "What's something you each love — a song, a story, a game, a place — that you'd want to share with the other?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-012",
+      "text": "What does each of you need from the world right now that the world isn't giving you?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-013",
+      "text": "Where have you found genuine solidarity across your age difference — where the gap just dissolved?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-014",
+      "text": "How do you each think about safety — emotional, physical, systemic — and how has your generation's formation shaped that?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-scorpio-capricorn-015",
+      "text": "What would you want to say to the version of the other person that's 10 years older or younger than they are now?",
+      "generations": [
+        "scorpio",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-001",
+      "text": "You're close in age — siblings, classmates, friends. Fire and earth: one seeks boundless possibility, one has learned to navigate within constraints. How do you understand each other?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-002",
+      "text": "The Sagittarius generation was shaped by the promise of expansion before it was cut off; the Capricorn generation was born after the contraction was already underway. How does that timing difference show up in your outlook?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-003",
+      "text": "What does each of you believe about the future — and where does that belief actually come from?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-004",
+      "text": "What would you change about how your generation sees the world, if you could?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-005",
+      "text": "What's one thing you've genuinely learned from watching someone of the other generation navigate life?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-006",
+      "text": "You might be in the same classroom, the same home, the same group chat. What does the other generation do that you don't totally understand — but kind of wish you did?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-007",
+      "text": "What does growing up with AI feel like to each of you — and is your relationship to it different in ways the other actually notices?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-008",
+      "text": "Sagittarius came into young adulthood during a global pandemic; Capricorn is growing up in its aftermath. How does that difference in timing shape how you each picture the world?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-009",
+      "text": "What's something you both care about deeply — and what does that caring actually look like in practice for each of you?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-010",
+      "text": "What's the most important thing either of you has learned from someone older — and does the other generation recognize that wisdom too?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-011",
+      "text": "What does ambition look like to each of you right now — and is it something that feels sustainable?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-012",
+      "text": "How do you each use humor to cope with hard things — and can you actually make each other laugh about what's heaviest?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-013",
+      "text": "What's something you each believe that you couldn't fully explain to most adults in your life?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-014",
+      "text": "What does freedom mean to each of you — and does either of you feel like you actually have it?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "bridge-sagittarius-capricorn-015",
+      "text": "If you could design one thing about the shared future together — no adults in the room, just you — what would you design?",
+      "generations": [
+        "sagittarius",
+        "capricorn"
+      ],
+      "type": "bridge"
+    },
+    {
+      "id": "universal-all-001",
+      "text": "What does home mean to you — where is it, and how did you find it?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-002",
+      "text": "Who has been the most transformative person in your life, and what did they awaken in you?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-003",
+      "text": "What do you wish you'd been told about life at the age you are right now?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-004",
+      "text": "What crisis has shaped you most profoundly, and what did it reveal about who you are?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-005",
+      "text": "When did you first realize that the story you'd been told about the world wasn't the whole story?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-006",
+      "text": "What does it mean to you to live with integrity — and when has that been hardest?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-007",
+      "text": "What are you most afraid the world is losing — and what role do you play in protecting it?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-008",
+      "text": "When have you been genuinely changed by someone whose life experience was very different from your own?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-009",
+      "text": "What's one belief you hold that has been tested by reality — and survived?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-010",
+      "text": "What does power look like when it's used well? Have you ever witnessed it?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-011",
+      "text": "What do you love most about being alive in this particular moment in history?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-012",
+      "text": "What do you wish you could ask someone who lived through a great historical turning point — what would you want them to tell you?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-013",
+      "text": "What's the most important question you've ever asked yourself — and what did the answer change?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-014",
+      "text": "What does community mean to you — where have you truly found it?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-015",
+      "text": "What's one thing you've never said out loud that this question is prompting you to consider?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-016",
+      "text": "How do you hold hope and grief at the same time?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-017",
+      "text": "What's the most important gift you've given or received from someone of a different generation?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-018",
+      "text": "What do you think every generation gets wrong about the ones before and after it?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-019",
+      "text": "What do you believe about human nature — are we fundamentally good, or is it more complicated?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-020",
+      "text": "If you could leave a message in a bottle for someone 50 years from now, what would you say?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-021",
+      "text": "What do you think is the most important question nobody is asking right now?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-022",
+      "text": "What's something you've changed your mind about completely — and what actually changed it?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-023",
+      "text": "What does courage look like in everyday life, not in extraordinary circumstances?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-024",
+      "text": "What has silence taught you that words couldn't?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-025",
+      "text": "What's the most important promise you've ever made — and did you keep it?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-026",
+      "text": "What would you do differently if you knew failure was impossible?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-027",
+      "text": "What's the most honest conversation you've ever had — and what made it possible?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-028",
+      "text": "When have you felt most fully, unmistakably yourself?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-029",
+      "text": "What does gratitude actually feel like — and when did you last feel it deeply?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-030",
+      "text": "What's something the world has genuinely gotten better at in your lifetime — honestly, truly better?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-031",
+      "text": "What's the difference between a life that is meaningful and a life that is happy — and which one are you most after?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-032",
+      "text": "Who taught you the most about loss — and what did they teach you?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-033",
+      "text": "What do you think is most misunderstood about your generation — by every other generation?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-034",
+      "text": "What does forgiveness mean to you — and is there something you're still quietly working on?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-035",
+      "text": "What moment made you realize that other people's inner lives are as complex and full as your own?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-036",
+      "text": "What does wisdom look like to you — and do you know anyone you would genuinely call wise?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-037",
+      "text": "What's the most important thing you've learned about yourself that you couldn't have known ten years ago?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-038",
+      "text": "What do you wish you could tell the last generation of people who lived before the internet?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-039",
+      "text": "What does belonging feel like — and when have you truly, unmistakably had it?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    },
+    {
+      "id": "universal-all-040",
+      "text": "What question would you most want everyone in this room to answer?",
+      "generations": [
+        "all"
+      ],
+      "type": "universal"
+    }
+  ]
+}
