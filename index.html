@@ -37,6 +37,13 @@
     padding: 2rem 1.25rem;
   }
 
+  .title-logo {
+    display: block;
+    height: 78px;
+    width: auto;
+    margin: 0 auto 0.6rem auto;
+  }
+
   h1 {
     font-size: 1.75rem;
     font-weight: 700;
@@ -46,30 +53,11 @@
     text-align: center;
   }
 
-  .title-row {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.75rem;
-    margin-bottom: 0.25rem;
-  }
-
-  .title-image {
-    display: block;
-    max-height: 56px;
-    width: auto;
-  }
-
-  .title-image-left {
-    height: 65px;
-    max-height: none;
-    width: auto;
-  }
-
   .subtitle {
     font-size: 1rem;
     color: var(--text-muted);
     text-align: center;
+    margin-top: 0.6rem;
     margin-bottom: 2rem;
     font-style: italic;
   }
@@ -103,55 +91,37 @@
     background: rgba(222, 156, 55, 0.28);
     border-color: rgba(222, 156, 55, 0.52);
   }
-
-  .generation-item[data-gen="leo"]:hover {
-    background: rgba(222, 156, 55, 0.40);
-  }
+  .generation-item[data-gen="leo"]:hover { background: rgba(222, 156, 55, 0.40); }
 
   .generation-item[data-gen="virgo"] {
     background: rgba(167, 118, 41, 0.28);
     border-color: rgba(167, 118, 41, 0.52);
   }
-
-  .generation-item[data-gen="virgo"]:hover {
-    background: rgba(167, 118, 41, 0.40);
-  }
+  .generation-item[data-gen="virgo"]:hover { background: rgba(167, 118, 41, 0.40); }
 
   .generation-item[data-gen="libra"] {
     background: rgba(155, 152, 55, 0.28);
     border-color: rgba(155, 152, 55, 0.52);
   }
-
-  .generation-item[data-gen="libra"]:hover {
-    background: rgba(155, 152, 55, 0.40);
-  }
+  .generation-item[data-gen="libra"]:hover { background: rgba(155, 152, 55, 0.40); }
 
   .generation-item[data-gen="scorpio"] {
     background: rgba(106, 105, 39, 0.28);
     border-color: rgba(106, 105, 39, 0.52);
   }
-
-  .generation-item[data-gen="scorpio"]:hover {
-    background: rgba(106, 105, 39, 0.40);
-  }
+  .generation-item[data-gen="scorpio"]:hover { background: rgba(106, 105, 39, 0.40); }
 
   .generation-item[data-gen="sagittarius"] {
     background: rgba(104, 172, 129, 0.28);
     border-color: rgba(104, 172, 129, 0.52);
   }
-
-  .generation-item[data-gen="sagittarius"]:hover {
-    background: rgba(104, 172, 129, 0.40);
-  }
+  .generation-item[data-gen="sagittarius"]:hover { background: rgba(104, 172, 129, 0.40); }
 
   .generation-item[data-gen="capricorn"] {
     background: rgba(72, 166, 193, 0.28);
     border-color: rgba(72, 166, 193, 0.52);
   }
-
-  .generation-item[data-gen="capricorn"]:hover {
-    background: rgba(72, 166, 193, 0.40);
-  }
+  .generation-item[data-gen="capricorn"]:hover { background: rgba(72, 166, 193, 0.40); }
 
   .generation-item input[type="checkbox"] {
     appearance: none;
@@ -191,12 +161,14 @@
   }
 
   .gen-label .sign {
-    font-size: 1rem;
+    font-size: calc(1rem + 2px);
+    font-weight: 700;
     color: var(--text);
   }
 
   .gen-label .years {
-    font-size: 0.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: calc(0.8rem + 2px);
     color: var(--text-muted);
   }
 
@@ -314,36 +286,20 @@
     text-align: center;
   }
 
-  .bottom-banner {
-    margin-top: 1.5rem;
-    width: 100%;
-    max-width: 480px;
-    padding-top: 0;
-  }
-
-  .bottom-banner img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
   /* Responsive */
   @media (max-width: 380px) {
     body { padding: 1.25rem 1rem; }
     h1 { font-size: 1.5rem; }
-    .title-image { max-height: 42px; }
-    .title-image-left { height: 60px; }
+    .title-logo { height: 66px; }
     .card-question { font-size: 1.2rem; }
     .card { padding: 1.5rem 1.25rem; min-height: 180px; }
   }
 </style>
 </head>
 <body>
-<div class="title-row">
-  <img class="title-image title-image-left" src="LOGO.png" alt="Logo">
-  <h1>At the Table</h1>
-  <img class="title-image" src="PLUTO.png" alt="Pluto">
-</div>
+
+<img class="title-logo" src="LOGO.png" alt="Logo">
+<h1>At the Table</h1>
 <p class="subtitle">Conversations across generations</p>
 
 <!-- Setup: choose who's at the table -->
@@ -363,10 +319,6 @@
     <button class="btn btn-primary" id="drawAgainBtn">Draw Again</button>
     <button class="btn btn-secondary" id="backBtn">Change Table</button>
   </div>
-</div>
-
-<div class="bottom-banner">
-  <img src="flag-banner.png" alt="Flag banner">
 </div>
 
 <script>
@@ -461,7 +413,6 @@
       });
     });
   }
-
 
   // Draw a random question, avoiding immediate repeats when possible
   function drawQuestion() {
